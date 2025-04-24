@@ -25,5 +25,4 @@ Infinity Stream is a full-stack OTT (Over-the-Top) streaming platform built with
 - CSS
 - JavaScript
 
-## 📁 Project Structure
 
